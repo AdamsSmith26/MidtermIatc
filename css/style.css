@@ -13,6 +13,7 @@
 }
 
 .top::before {
+    content: '';
     position: absolute;
     width: 244.29px;
     height: 284.45px;
@@ -25,6 +26,7 @@
 }
 
 .top::after {
+    content: '';
     position: absolute;
     width: 485.1px;
     height: 520.66px;
@@ -144,6 +146,7 @@ header .register .register_button:hover {
 }
 
 .top_section .top_section_img::after {
+    content: '';
     background-image: url('/img/placeholder.png');
     width: 470px;
     height: 480px;
