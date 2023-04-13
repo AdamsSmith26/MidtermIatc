@@ -139,7 +139,7 @@ header .register .register_button:hover {
 .top_section .top_section_img {
   width: 470px;
   height: 480px;
-  background-image: url("/img/iphone12.png");
+  background-image: url("../img/iphone12.png");
   background-size: contain;
   background-repeat: no-repeat;
   position: relative;
