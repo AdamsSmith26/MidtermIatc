@@ -13,7 +13,6 @@
 }
 
 .top::before {
-    content: '';
     position: absolute;
     width: 244.29px;
     height: 284.45px;
@@ -26,7 +25,6 @@
 }
 
 .top::after {
-    content: '';
     position: absolute;
     width: 485.1px;
     height: 520.66px;
